@@ -1,0 +1,144 @@
+[
+     {
+          "id": {
+               "navbar": {
+                    "home": "Beranda",
+                    "about": "Tentang Saya",
+                    "resume": "Resume",
+                    "service": "Layanan",
+                    "portfolio": "Portfolio",
+                    "contact": "kontak",
+                    "languages": "(ID)"
+               },
+               "about": {
+                    "header": "Siapa sih bunayya?",
+                    "Desc1": "Tak kenal maka tak sayang, begitu kata orang-orang. Berikut ini adalah informasi tentang saya, yaah...  dikit aja nggapapa kali ya",
+                    "Desc2": "Kalo dibilang Fullstack sih gak Fullstack banget, Saya lebih fokus ke Backend tapi bisalah dikit-dikit Frontend, Mobile? nope.. Saya lepas tangan kalo suruh ngerjain mobile kalo dapat project mobile langsung saya oper ketemen saya yang memang mobile developer, walaupun saya pernah ngerjain project IONIC angular.ts tapi saya pikir ninja saya lebih kearah Backend. Btw, Bagi yang asing dengan istilah-istilah tersebut pada dasarnya Frontend, Backend dan Mobile adalah sebuah satu kesatuan bagaimana terbentuknya aplikasi, singkatnya Frontend adalah halaman Web, Mobile adalah aplikasi yang berjalan di mobile dan Backend adalah sebuah aplikasi yang berjalan dibelakang layar, biasanya Backend berjalan disebuah server untuk menghandle logic, mengatur database dan mengatur bagaimana alur sebuah web/aplikasi mobile bekerja, kok jadi bahas ini ya? okeylah, intinya itu. <br><br>Saya tinggal di sebuah kota kecil di Jawa Timur yaitu Blitar dan saya lulusan D1 di Malang tahun 2021.Lalu, untuk pengalaman kerja saya bekerja di sebuah Startup di Semarang, tugas saya yaitu membangun aplikasi Backend dan Frontend yang mana dalam Backendnya sendiri terintegrasi sebuah payment gateway, firebase untuk push notifikasi dan database. <br> Sebagai seorang programmer, tentunya saya sudah siap dengan segala konsekuensi yang ada seperti siap belajar terus menerus, meningkatkan skill, dan meningkatkan kecepatan dan ketepatan dalam menulis kode. Tentunya masih banyak yang perlu saya pelajari dalam dunia 'perkodean' ini. <br> Itulah sedikit informasi tentang saya mohon dimaklumi jika ada tutur kata saya yang kurang tepat."
+               },
+               "resume": {
+                    "header": "Lihat Resume Saya",
+                    "experience": "Pengalaman Professional",
+                    "experienceItem": [
+                         {
+                              "experienceTitle1": "Fullstack Developer",
+                              "experienceTime1": "2021 - 2022",
+                              "experiencePlace1": "PT Tera Fusion Tech, Semarang",
+                              "experienceDesc1": "<li>Membuat web Company Profile</li><li>Membuat skema database</li><li>Membuat aplikasi Backend dan mengintegrasikanya dengan firebase dan payment gateway yang akan dikonsumsi oleh mobile app</li>"
+                         }
+                    ],
+                    "education": "Pendidikan",
+                    "educationItem": [
+                         {
+                              "educationTitle1": "Diploma",
+                              "educationTime1": "2020 - 2021",
+                              "educationPlace1": "Wearnes Education Center, Malang",
+                              "educationDesc1": "<li>Belajar logic, OOP dan Bahasa pemrograman</li><li>Mempelajari Tentang API</li><li>Belajar membuat Moblie App (IONIC Angular.ts)</li><li>Membuat Project Payroll app menggunakan bahasa pemrograman PHP dan JavaScript</li><li>Mempelajari microsoft office</li>"
+                         }
+                    ]
+               },
+               "service": {
+                    "header": "Yang bisa saya kerjakan",
+                    "serviceItem": [
+                         {
+                              "title": "Website",
+                              "desc": "Melayani pembuatan website mulai dari Landing page, Company Profile dan lain sebagainya"
+                         },
+                         {
+                              "title": "Wordpress",
+                              "desc": "Melayani pembuatan website responsive berbasis Wordpress mulai dari Landing page, Company Profile dan lain sebagainya"
+                         },
+                         {
+                              "title": "Mobile",
+                              "desc": "Melayani pembuatan mobile (android) app online maupun offline dan terintegrasi dengan Backend"
+                         },
+                         {
+                              "title": "Konsultasi",
+                              "desc": "Konsultasi, memberikan ide dan membantu mengerjakan sebuah project"
+                         },
+                         {
+                              "title": "Backend",
+                              "desc": "Membuat apikasi RESTfull API beserta dokumentasi berbasis postman ataupun text"
+                         }
+                    ]
+               },
+               "portfolio": {
+                    "header": "Yang telah saya kerjakan"
+               },
+               "contact": {
+                    "header": "Hubungi Saya",
+                    "address": "alamat",
+                    "socialMedia": "Sosial Media"
+               }
+          },
+          "en": {
+               "navbar": {
+                    "home": "Home",
+                    "about": "About Me",
+                    "resume": "Resume",
+                    "service": "Service",
+                    "portfolio": "Portfolio",
+                    "contact": "contact",
+                    "languages": "(EN)"
+               },
+               "about": {
+                    "header": "Who's Bunayya?",
+                    "Desc1": "",
+                    "Desc2": ""
+               },
+               "resume": {
+                    "header": "My Resume",
+                    "experience": "Professional Experience",
+                    "experienceItem": [
+                         {
+                              "experienceTitle1": "Fullstack Developer",
+                              "experienceTime1": "2021 - 2022",
+                              "experiencePlace1": "PT Tera Fusion Tech, Semarang",
+                              "experienceDesc1": "<li></li> <li></li> <li></li>"
+                         }
+                    ],
+                    "education": "Education",
+                    "educationItem": [
+                         {
+                              "educationTitle1": "Diploma",
+                              "educationTime1": "2020 - 2021",
+                              "educationPlace1": "Wearnes Education Center, Malang",
+                              "educationDesc1": "<li></li> <li></li> <li></li> <li></li> <li></li>"
+                         }
+                    ]
+               },
+               "service": {
+                    "header": "What I can do",
+                    "serviceItem": [
+                         {
+                              "title": "Website",
+                              "desc": ""
+                         },
+                         {
+                              "title": "Wordpress",
+                              "desc": ""
+                         },
+                         {
+                              "title": "Mobile",
+                              "desc": ""
+                         },
+                         {
+                              "title": "Consultation",
+                              "desc": ""
+                         },
+                         {
+                              "title": "Backend",
+                              "desc": ""
+                         }
+                    ]
+               },
+               "portfolio": {
+                    "header": "What I've been doing"
+               },
+               "contact": {
+                    "header": "Contact Me",
+                    "address": "address",
+                    "socialMedia": "Social Media"
+               }
+          }
+     }
+]

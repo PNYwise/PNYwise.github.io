@@ -1,0 +1,144 @@
+[
+     {
+          "id": {
+               "navbar": {
+                    "home": "Beranda",
+                    "about": "Tentang Saya",
+                    "resume": "Resume",
+                    "service": "Layanan",
+                    "portfolio": "Portfolio",
+                    "contact": "Kontak",
+                    "languages": "(ID)"
+               },
+               "about": {
+                    "header": "Siapa sih bunayya?",
+                    "Desc1": "Tak kenal maka tak sayang, begitu kata orang-orang. Berikut ini adalah informasi tentang saya, yaah...  dikit aja nggapapa kali ya",
+                    "Desc2": "Kalo dibilang Fullstack sih gak Fullstack banget, Saya lebih fokus ke Backend tapi bisalah dikit-dikit Frontend, Mobile? nope.. Saya lepas tangan kalo disuruh ngerjain mobile dan kalo dapat project mobile langsung saya oper ke temen saya yang memang mobile developer, walaupun saya pernah ngerjain project IONIC angular.ts tapi saya pikir ninja saya lebih ke arah Backend. Btw, Bagi yang asing dengan istilah-istilah tersebut pada dasarnya Frontend, Backend dan Mobile adalah sebuah satu kesatuan bagaimana terbentuknya aplikasi, singkatnya Frontend adalah halaman Web, Mobile adalah aplikasi yang berjalan di mobile dan Backend adalah sebuah aplikasi yang berjalan di belakang layar, biasanya Backend berjalan di sebuah server untuk menghandle logic, mengatur database dan mengatur bagaimana alur sebuah web/aplikasi mobile bekerja, kok jadi bahas ini ya? okeylah, intinya itu. <br><br>Saya tinggal di sebuah kota kecil di Jawa Timur yaitu Blitar dan saya lulusan D1 di Malang tahun 2021. Kemudian, untuk pengalaman kerja saya bekerja di sebuah Startup di Semarang, tugas saya yaitu membangun aplikasi Backend dan Frontend yang mana dalam Backendnya sendiri terintegrasi sebuah payment gateway, firebase untuk push notifikasi dan database. <br> Sebagai seorang programmer, tentunya saya sudah siap dengan segala konsekuensi yang ada seperti siap belajar terus menerus, meningkatkan skill, dan meningkatkan kecepatan dan ketepatan dalam menulis kode. Tentunya masih banyak yang perlu saya pelajari dalam dunia 'perkodean' ini. <br> Itulah sedikit informasi tentang saya mohon dimaklumi jika ada tutur kata saya yang kurang tepat."
+               },
+               "resume": {
+                    "header": "Lihat Resume Saya",
+                    "experience": "Pengalaman Professional",
+                    "experienceItem": [
+                         {
+                              "experienceTitle1": "Fullstack Developer",
+                              "experienceTime1": "2021 - 2022",
+                              "experiencePlace1": "PT Tera Fusion Tech, Semarang",
+                              "experienceDesc1": "<li>Membuat web Company Profile</li><li>Membuat skema database</li><li>Membuat aplikasi Backend dan mengintegrasikanya dengan firebase dan payment gateway yang akan dikonsumsi oleh mobile app</li>"
+                         }
+                    ],
+                    "education": "Pendidikan",
+                    "educationItem": [
+                         {
+                              "educationTitle1": "Diploma 1",
+                              "educationTime1": "2020 - 2021",
+                              "educationPlace1": "Wearnes Education Center, Malang",
+                              "educationDesc1": "<li>Belajar logic, OOP dan Bahasa pemrograman</li><li>Mempelajari Tentang API</li><li>Belajar membuat Mobile App (IONIC Angular.ts)</li><li>Membuat Project Payroll app menggunakan bahasa pemrograman PHP dan JavaScript</li><li>Mempelajari microsoft office</li>"
+                         }
+                    ]
+               },
+               "service": {
+                    "header": "Yang bisa saya kerjakan",
+                    "serviceItem": [
+                         {
+                              "title": "Website",
+                              "desc": "Melayani pembuatan website mulai dari Landing page, Company Profile dan lain sebagainya"
+                         },
+                         {
+                              "title": "Wordpress",
+                              "desc": "Melayani pembuatan website responsive berbasis Wordpress mulai dari Landing page, Company Profile dan lain sebagainya"
+                         },
+                         {
+                              "title": "Mobile",
+                              "desc": "Melayani pembuatan mobile (android) app online maupun offline dan terintegrasi dengan Backend"
+                         },
+                         {
+                              "title": "Konsultasi",
+                              "desc": "Konsultasi, memberikan ide dan membantu mengerjakan sebuah project"
+                         },
+                         {
+                              "title": "Backend",
+                              "desc": "Membuat aplikasi RESTfull API beserta dokumentasi berbasis postman ataupun text"
+                         }
+                    ]
+               },
+               "portfolio": {
+                    "header": "Yang telah saya kerjakan"
+               },
+               "contact": {
+                    "header": "Hubungi Saya",
+                    "address": "Alamat",
+                    "socialMedia": "Sosial Media"
+               }
+          },
+          "en": {
+               "navbar": {
+                    "home": "Home",
+                    "about": "About Me",
+                    "resume": "Resume",
+                    "service": "Service",
+                    "portfolio": "Portfolio",
+                    "contact": "Contact",
+                    "languages": "(EN)"
+               },
+               "about": {
+                    "header": "Who's Bunayya?",
+                    "Desc1": "Knowing me is like learn to walk before you run. Here's attached a lil bit information about me.",
+                    "Desc2": "Well.. I cannot say that I'm a Fullstack developer, I focused more on Backend, but I could do Frontend too, just a lil bit. 'How about mobile?' they asked, nope hahaha I'll totally give up soon after I get the mobile work and pass it to my friend who used to work as a Mobile developer. Even though I had worked on project IONIC angular.ts, but I think the faith has already spoken to me for choosing Backend rather than Mobile. Anyways, for people who blind with how's application works, here's my simple explanation. Well, basically Frontend, Backend, and Mobile is one united of how the application works. In other words, Frontend is the web page,  Mobile is the application that works in 'mobile' and Backend is the application that works behind the screen. Backend used to work in some server to handling the logic, arranging the database, arranging the flow of how web or mobile application works. Enough with the heavy, lets move on to how's Bunayya living, shall we? <br> I live in a small town in East Java, called Blitar. I'm an associate degree majoring in Information and Technology in Malang (graduated 2021). For my work experiences, I have worked on Startup company in Semarang. My job was building Backend and Frontend which in Backend itself integrated with payment gateway, firebase (pushing the notification) and sql database. As a programmer, I have prepared myself and be ready with the consequences such as learning new things, upgrading my skills, and increasing speed and accuracy in writing code. Also, there will be so many things that I have to learn in the 'World of Codes'. <br> That's a lil bit information about me and what I'm capable of, hope you enjoy with my writing and see you around."
+               },
+               "resume": {
+                    "header": "My Resume",
+                    "experience": "Professional Experience",
+                    "experienceItem": [
+                         {
+                              "experienceTitle1": "Fullstack Developer",
+                              "experienceTime1": "2021 - 2022",
+                              "experiencePlace1": "PT Tera Fusion Tech, Semarang",
+                              "experienceDesc1": "<li>Created website Company profile</li><li>Created database schema</li><li>Created Backend application integrated with firebase and payment gateway that will be consume by Mobile app</li>"
+                         }
+                    ],
+                    "education": "Education",
+                    "educationItem": [
+                         {
+                              "educationTitle1": "Associate Degree",
+                              "educationTime1": "2020 - 2021",
+                              "educationPlace1": "Wearnes Education Center, Malang",
+                              "educationDesc1": "<li>Learned logic, OOP and programming languages</li><li>Learned about API</li><li>Learned how to build Mobile App (IONIC Angular.ts)</li><li>Developed Project Payroll App with programming languages such as PHP and JavaScript</li><li>Learned about Microsoft Office</li>"
+                         }
+                    ]
+               },
+               "service": {
+                    "header": "What I could do",
+                    "serviceItem": [
+                         {
+                              "title": "Website",
+                              "desc": "Serving establishment of website from the landing page, company profile, etc. "
+                         },
+                         {
+                              "title": "Wordpress",
+                              "desc": "Serving establishment of responsive website based on Wordpress start from landing page, company profile, etc."
+                         },
+                         {
+                              "title": "Mobile",
+                              "desc": "Serving establishment of online and offline application for mobile (android) integrated with Backend."
+                         },
+                         {
+                              "title": "Konsultasi",
+                              "desc": "Receive consultation session, provide ideas, and help work on a project."
+                         },
+                         {
+                              "title": "Backend",
+                              "desc": "Building application of RESTfull API with documention based on postman nor text."
+                         }
+                    ]
+               },
+               "portfolio": {
+                    "header": "What I've been doing"
+               },
+               "contact": {
+                    "header": "Contact Me",
+                    "address": "Address",
+                    "socialMedia": "Social Media"
+               }
+          }
+     }
+]

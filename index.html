@@ -37,16 +37,18 @@
       <div class="container">
 
         <h1><a href="index.html">Bunayya Wahyu</a></h1>
-        <h2><span> Fullstack Developer</span> </h2>
+        <h2><span> Backend Developer</span> </h2>
 
         <nav id="navbar" class="navbar">
           <ul>
-            <li><a class="nav-link active" href="#header">Beranda</a></li>
-            <li><a class="nav-link" href="#about">Tentang Saya</a></li>
-            <li><a class="nav-link" href="#resume">Resume</a></li>
-            <li><a class="nav-link" href="#services">Layanan</a></li>
-            <li><a class="nav-link" href="#portfolio">Portfolio</a></li>
-            <li><a class="nav-link" href="#contact">kontak</a></li>
+            <li><a id="navhome" class="nav-link active" href="#header"></a></li>
+            <li><a id="navabout" class="nav-link" href="#about"></a></li>
+            <li><a id="navresume" class="nav-link" href="#resume"></a></li>
+            <li><a id="navservice" class="nav-link" href="#services"></a></li>
+            <li><a id="navportfolio" class="nav-link" href="#portfolio"></a></li>
+            <li><a id="navcontact" class="nav-link" href="#contact"></a></li>
+            <li><a id="languages" href="#" class="indonesia"></a></li>
+
           </ul>
           <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->
@@ -61,8 +63,8 @@
       <div class="about-me container">
 
         <div class="section-title">
-          <h2>Tentang Saya</h2>
-          <p>Siapa sih bunayya?</p>
+          <h2 id="aboutTitle"></h2>
+          <p id="aboutHeader"></p>
         </div>
 
         <div class="row">
@@ -71,39 +73,18 @@
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Fullstack Developer</h3>
-            <p class="fst-italic">
-              Tak kenal maka tak sayang, begitu kata orang-orang. Berikut ini adalah informasi tentang saya, yaah...
-              dikit aja nggapapa kali ya
-            </p>
+            <p id="aboutDesc1" class="fst-italic"></p>
             <div class="row">
               <div class="col-12">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Lulusan: </strong><span>Wearnes Education
+                  <li><i class="bi bi-chevron-right"></i> <strong>graduate: </strong><span>Wearnes Education
                       Center, Malang</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Usia: </strong> <span class="age"></span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>age: </strong> <span class="age"></span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance: </strong> <span>Available</span></li>
                 </ul>
               </div>
             </div>
-            <p>
-              Kalo dibilang Fullstack sih gak Fullstack banget, Saya lebih fokus ke Backend tapi bisalah dikit-dikit
-              masalah Frontend, Mobile? nope.. Saya lepas tangan kalo suruh ngerjain mobile kalo dapat project mobile
-              langsung saya oper ketemen saya yang memang mobile developer, walaupun saya pernah ngerjain project IONIC
-              angular.ts tapi saya pikir jalan ninja saya lebih kearah Backend. Btw, Bagi yang asing dengan
-              istilah-istilah tersebut pada dasarnya Frontend, Backend dan Mobile adalah sebuah satu kesatuan bagaimana
-              terbentuknya aplikasi, singkatnya Frontend adalah halaman Web, Mobile adalah aplikasi yang berjalan di
-              mobile dan Backend adalah sebuah aplikasi yang berjalan dibelakang layar, biasanya Backend berjalan
-              disebuah server untuk menghandle logic, mengatur database dan mengatur bagaimana alur sebuah web/aplikasi
-              mobile bekerja, kok jadi bahas ini ya? okeylah, intinya itu. <br><br>
-              Saya tinggal di sebuah kota kecil di Jawa Timur yaitu Blitar dan saya lulusan D1 di Malang tahun 2021.
-              Lalu, untuk pengalaman kerja saya bekerja di sebuah Startup di Semarang, tugas saya yaitu membangun
-              aplikasi Backend dan Frontend yang mana dalam Backendnya sendiri terintegrasi sebuah payment gateway,
-              firebase untuk push notifikasi dan database. <br>
-              Sebagai seorang programmer, tentunya saya sudah siap dengan segala konsekuensi yang ada seperti siap
-              belajar terus menerus, meningkatkan skill, dan meningkatkan kecepatan dan ketepatan dalam menulis kode.
-              Tentunya masih banyak yang perlu saya pelajari dalam dunia "perkodean" ini. <br>
-              Itulah sedikit informasi tentang saya mohon dimaklumi jika ada tutur kata saya yang kurang tepat.
-            </p>
+            <p id="aboutDesc2"></p>
           </div>
         </div>
 
@@ -173,44 +154,31 @@
     <!-- ======= Resume Section ======= -->
     <section id="resume" class="resume">
       <div class="container">
-
         <div class="section-title">
-          <h2>Resume</h2>
-          <p>Lihat Resume Saya</p>
+          <h2 id="resumeTitle"></h2>
+          <p id="resumeHeader"></p>
         </div>
 
         <div class="row">
           <div class="col-lg-6">
-            <h3 class="resume-title">Pengalaman Professional</h3>
+            <h3 id="resumeExperience" class="resume-title"></h3>
             <div class="resume-item">
-              <h4>Fullstack Developer</h4>
-              <h5>2021 - Sekarang</h5>
-              <p><em>PT Tera Fusion Tech, Semarang</em></p>
+              <h4 id="experienceTitle1"></h4>
+              <h5 id="experienceTime1"></h5>
+              <p><em id="experiencePlace1"></em></p>
               <p>
-              <ul>
-                <li>Membuat web Company Profile</li>
-                <li>Membuat skema database</li>
-                <li>Membuat aplikasi Backend dan mengintegrasikanya dengan firebase dan payment gateway yang akan
-                  dikonsumsi
-                  oleh mobile app</li>
-              </ul>
+              <ul id="experienceDesc1"></ul>
               </p>
             </div>
           </div>
           <div class="col-lg-6">
-            <h3 class="resume-title">Pendidikan</h3>
+            <h3 id="resumeEducation" class="resume-title"></h3>
             <div class="resume-item">
-              <h4>Diploma</h4>
-              <h5>2020 - 2021</h5>
-              <p><em>Wearnes Education Center, Malang</em></p>
+              <h4 id="educationTitle1"></h4>
+              <h5 id="educationTime1"></h5>
+              <p><em id="educationPlace1"></em></p>
               <p>
-              <ul>
-                <li>Belajar logic, OOP dan Bahasa pemrograman</li>
-                <li>Mempelajari Tentang API</li>
-                <li>Belajar membuat Moblie App (IONIC Angular.ts)</li>
-                <li>Membuat Project Payroll app menggunakan bahasa pemrograman PHP dan JavaScript</li>
-                <li>Mempelajari microsoft office</li>
-              </ul>
+              <ul id="educationDesc1"></ul>
               </p>
             </div>
           </div>
@@ -224,45 +192,44 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Layanan</h2>
-          <p>Yang bisa saya kerjakan</p>
+          <h2 id="serviceTitle"></h2>
+          <p id="serviceHeader"></p>
         </div>
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4>Website</h4>
-              <p>Melayani pembuatan website mulai dari Landing page, Company Profile dan lain sebagainya</p>
+              <h4 id="serviceItemTitle1"></h4>
+              <p id="serviceItemDesc1"></p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bi-wordpress"></i></div>
-              <h4>Wordpress</h4>
-              <p>Melayani pembuatan website responsive berbasis Wordpress mulai dari Landing page, Company Profile dan
-                lain sebagainya</p>
+              <h4 id="serviceItemTitle2"></h4>
+              <p id="serviceItemDesc2"></p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-mobile"></i></div>
-              <h4>Mobile</h4>
-              <p>Melayani pembuatan mobile (android) app online maupun offline dan terintegrasi dengan Backend</p>
+              <h4 id="serviceItemTitle3"></h4>
+              <p id="serviceItemDesc3"></p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-slideshow"></i></div>
-              <h4>Konsultasi</h4>
-              <p>Konsultasi, memberikan ide dan membantu mengerjakan sebuah project</p>
+              <h4 id="serviceItemTitle4"></h4>
+              <p id="serviceItemDesc4"></p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <div class="icon"><i class="bx bi-bezier"></i></div>
-              <h4>Backend</h4>
-              <p>Membuat apikasi RESTfull API beserta dokumentasi berbasis postman ataupun text</p>
+              <h4 id="serviceItemTitle5"></h4>
+              <p id="serviceItemDesc5"></p>
             </div>
           </div>
         </div>
@@ -274,8 +241,8 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Portfolio</h2>
-          <p>Yang telah saya kerjakan</p>
+          <h2 id="portfolioTitle"></h2>
+          <p id="portfolioHeader"></p>
         </div>
 
         <div class="row portfolio-container">
@@ -298,23 +265,23 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Contact</h2>
-          <p>Hubungi saya</p>
+          <h2 id="contactTitle"></h2>
+          <p id="contactHeader"></p>
         </div>
 
         <div class="row mt-2">
           <div class="col-md-6 d-flex align-items-stretch">
             <div class="info-box">
               <i class="bx bx-map"></i>
-              <h3>Alamat</h3>
-              <p>Bitar, Jawa Timur</p>
+              <h3 id="address"></h3>
+              <p>Blitar, Jawa Timur</p>
             </div>
           </div>
 
           <div class="col-md-6 mt-4 mt-md-0 d-flex align-items-stretch">
             <div class="info-box">
               <i class="bx bx-share-alt"></i>
-              <h3>Sosial media</h3>
+              <h3 id="socialMedia"></h3>
               <div class="social-links">
                 <a href="https://www.linkedin.com/in/bunayya-wahyu-a1765b21b" class="linkedin"><i
                     class="bi bi-linkedin"></i></a>
@@ -363,6 +330,7 @@
 
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>
+    <script src="assets/js/content.js"></script>
 
   </body>
 
