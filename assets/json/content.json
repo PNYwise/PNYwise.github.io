@@ -13,17 +13,23 @@
                "about": {
                     "header": "Siapa sih bunayya?",
                     "Desc1": "Tak kenal maka tak sayang, begitu kata orang-orang. Berikut ini adalah informasi tentang saya, yaah...  dikit aja nggapapa kali ya",
-                    "Desc2": "Kalo dibilang Fullstack sih gak Fullstack banget, Saya lebih fokus ke Backend tapi bisalah dikit-dikit Frontend, Mobile? nope.. Saya lepas tangan kalo disuruh ngerjain mobile dan kalo dapat project mobile langsung saya oper ke temen saya yang memang mobile developer, walaupun saya pernah ngerjain project IONIC angular.ts tapi saya pikir ninja saya lebih ke arah Backend. Btw, Bagi yang asing dengan istilah-istilah tersebut pada dasarnya Frontend, Backend dan Mobile adalah sebuah satu kesatuan bagaimana terbentuknya aplikasi, singkatnya Frontend adalah halaman Web, Mobile adalah aplikasi yang berjalan di mobile dan Backend adalah sebuah aplikasi yang berjalan di belakang layar, biasanya Backend berjalan di sebuah server untuk menghandle logic, mengatur database dan mengatur bagaimana alur sebuah web/aplikasi mobile bekerja, kok jadi bahas ini ya? okeylah, intinya itu. <br><br>Saya tinggal di sebuah kota kecil di Jawa Timur yaitu Blitar dan saya lulusan D1 di Malang tahun 2021. Kemudian, untuk pengalaman kerja saya bekerja di sebuah Startup di Semarang, tugas saya yaitu membangun aplikasi Backend dan Frontend yang mana dalam Backendnya sendiri terintegrasi sebuah payment gateway, firebase untuk push notifikasi dan database. <br> Sebagai seorang programmer, tentunya saya sudah siap dengan segala konsekuensi yang ada seperti siap belajar terus menerus, meningkatkan skill, dan meningkatkan kecepatan dan ketepatan dalam menulis kode. Tentunya masih banyak yang perlu saya pelajari dalam dunia 'perkodean' ini. <br> Itulah sedikit informasi tentang saya mohon dimaklumi jika ada tutur kata saya yang kurang tepat."
+                    "Desc2": "Kalo dibilang Fullstack sih gak Fullstack banget, Saya lebih fokus ke Backend tapi bisalah dikit-dikit Frontend, Mobile? nope.. Saya lepas tangan kalo disuruh ngerjain mobile dan kalo dapat project mobile langsung saya oper ke temen saya yang memang mobile developer, walaupun saya pernah ngerjain project IONIC angular.ts tapi saya pikir jalan ninja saya lebih mengarah ke Backend. Btw, Bagi yang asing dengan istilah-istilah tersebut pada dasarnya Frontend, Backend dan Mobile adalah sebuah satu kesatuan bagaimana terbentuknya aplikasi, singkatnya Frontend adalah halaman Web, Mobile adalah aplikasi yang berjalan di mobile dan Backend adalah sebuah aplikasi yang berjalan di belakang layar, biasanya Backend berjalan di sebuah server untuk menghandle logic, mengatur database dan mengatur bagaimana alur sebuah web/aplikasi mobile bekerja, kok jadi bahas ini ya? okeylah, intinya itu. <br><br>Saya tinggal di sebuah kota kecil di Jawa Timur yaitu Blitar dan saya lulusan D1 di Malang tahun 2021. Kemudian, untuk pengalaman kerja saya bekerja di sebuah Startup di Semarang, tugas saya yaitu membangun aplikasi Backend dan Frontend yang mana dalam Backendnya sendiri terintegrasi sebuah payment gateway, firebase untuk push notifikasi dan database. <br> Sebagai seorang programmer, tentunya saya sudah siap dengan segala konsekuensi yang ada seperti siap belajar terus menerus, meningkatkan skill, dan meningkatkan kecepatan dan ketepatan dalam menulis kode. Tentunya masih banyak yang perlu saya pelajari dalam dunia 'perkodean' ini. <br> Itulah sedikit informasi tentang saya mohon dimaklumi jika ada tutur kata saya yang kurang tepat."
                },
                "resume": {
                     "header": "Lihat Resume Saya",
                     "experience": "Pengalaman Professional",
                     "experienceItem": [
                          {
+                              "experienceTitle2": "Backend Developer",
+                              "experienceTime2": "Agustus 2022 – November 2022",
+                              "experiencePlace2": "Leafs.id, Semarang",
+                              "experienceDesc2": "<li>Merancang dan membuat konsep perangkat lunak</li><li>Membuat aplikasi Backend (Json RestAPI) yang diintegrasikan dengan Mobile App dan Web App</li><li>Deploying</li><li>Testing menggunakan Postman</li>"
+                         },
+                         {
                               "experienceTitle1": "Fullstack Developer",
-                              "experienceTime1": "2021 - 2022",
+                              "experienceTime1": "Desember 2021 – Juli 2022",
                               "experiencePlace1": "PT Tera Fusion Tech, Semarang",
-                              "experienceDesc1": "<li>Membuat web Company Profile</li><li>Membuat skema database</li><li>Membuat aplikasi Backend dan mengintegrasikanya dengan firebase dan payment gateway yang akan dikonsumsi oleh mobile app</li>"
+                              "experienceDesc1": "<li>Membuat aplikasi Backend (Json RestAPI) yang diintegrasikan dengan Mobile App dan Web App</li><li>Mengitegrasikan Payment Gateway dan Firebase</li><li>Testing dengan menggunakan Postman</li><li>Membuat web Company Profile</li>"
                          }
                     ],
                     "education": "Pendidikan",
@@ -62,7 +68,8 @@
                     ]
                },
                "portfolio": {
-                    "header": "Yang telah saya kerjakan"
+                    "header": "Yang telah saya kerjakan",
+                    "desc": "Beberapa project telah di sembunyikan, mohon hubungi saya."
                },
                "contact": {
                     "header": "Hubungi Saya",
@@ -90,10 +97,16 @@
                     "experience": "Professional Experience",
                     "experienceItem": [
                          {
+                              "experienceTitle2": "Backend Developer",
+                              "experienceTime2": "August 2022 – November 2022",
+                              "experiencePlace2": "Leafs.id, Semarang",
+                              "experienceDesc2": "<li>Design and create software concepts</li><li>Create Backend applications (Json Rest API) that are integrated with Mobile Apps and Web Apps</li><li>Deploying</li><li>Testing using Postman</li>"
+                         },
+                         {
                               "experienceTitle1": "Fullstack Developer",
-                              "experienceTime1": "2021 - 2022",
+                              "experienceTime1": "December 2021 – July 2022",
                               "experiencePlace1": "PT Tera Fusion Tech, Semarang",
-                              "experienceDesc1": "<li>Created website Company profile</li><li>Created database schema</li><li>Created Backend application integrated with firebase and payment gateway that will be consume by Mobile app</li>"
+                              "experienceDesc1": "<li>Create Backend applications (Json Rest API) that are integrated with Mobile Apps and Web Apps</li><li>Integrating Payment Gateway and Firebase</li><li>Testing using Postman</li><li>Create a web company profile</li>"
                          }
                     ],
                     "education": "Education",
@@ -132,7 +145,8 @@
                     ]
                },
                "portfolio": {
-                    "header": "What I've been doing"
+                    "header": "What I've been doing",
+                    "desc": "Some projects have been private, please contact me."
                },
                "contact": {
                     "header": "Contact Me",

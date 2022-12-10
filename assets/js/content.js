@@ -1,4 +1,4 @@
-fetchingIdJsonData();
+fetchingEnJsonData()
 
 function fetchingIdJsonData() {
 
@@ -68,12 +68,12 @@ function fetchingEnJsonData() {
 
 document.getElementById("languages").addEventListener("click", (e) => {
      const attr = document.getElementById('languages').getAttribute('class');
-     if (attr == "indonesia") {
-          document.getElementById('languages').setAttribute('class', 'english');
-          fetchingEnJsonData();
-     } else {
+     if (attr == "english") {
           document.getElementById('languages').setAttribute('class', 'indonesia');
           fetchingIdJsonData();
+     } else {
+          document.getElementById('languages').setAttribute('class', 'english');
+          fetchingEnJsonData();
      }
 });
 
@@ -108,10 +108,15 @@ function setResumeValue(resume) {
      document.getElementById("resumeHeader").innerHTML = resume[0].header;
      // exp
      document.getElementById("resumeExperience").innerHTML = resume[0].experience;
-     document.getElementById("experienceTitle1").innerHTML = resume[0].experienceItem[0].experienceTitle1;
-     document.getElementById("experienceTime1").innerHTML = resume[0].experienceItem[0].experienceTime1;
-     document.getElementById("experiencePlace1").innerHTML = resume[0].experienceItem[0].experiencePlace1;
-     document.getElementById("experienceDesc1").innerHTML = resume[0].experienceItem[0].experienceDesc1;
+     document.getElementById("experienceTitle2").innerHTML = resume[0].experienceItem[0].experienceTitle2;
+     document.getElementById("experienceTime2").innerHTML = resume[0].experienceItem[0].experienceTime2;
+     document.getElementById("experiencePlace2").innerHTML = resume[0].experienceItem[0].experiencePlace2;
+     document.getElementById("experienceDesc2").innerHTML = resume[0].experienceItem[0].experienceDesc2;
+
+     document.getElementById("experienceTitle1").innerHTML = resume[0].experienceItem[1].experienceTitle1;
+     document.getElementById("experienceTime1").innerHTML = resume[0].experienceItem[1].experienceTime1;
+     document.getElementById("experiencePlace1").innerHTML = resume[0].experienceItem[1].experiencePlace1;
+     document.getElementById("experienceDesc1").innerHTML = resume[0].experienceItem[1].experienceDesc1;
 
      // edu
      document.getElementById("resumeEducation").innerHTML = resume[0].education;
@@ -142,6 +147,7 @@ function setServiceValue(service) {
 
 function setPortfolioValue(portfolio) {
      document.getElementById("portfolioHeader").innerHTML = portfolio[0].header;
+     document.getElementById("portfolioDesc").innerHTML = portfolio[0].desc;
 };
 
 function setContactValue(contact) {
