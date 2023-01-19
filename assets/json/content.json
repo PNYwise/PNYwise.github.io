@@ -13,7 +13,7 @@
                "about": {
                     "header": "Siapa sih bunayya?",
                     "Desc1": "Tak kenal maka tak sayang, begitu kata orang-orang. Berikut ini adalah informasi tentang saya, yaah...  dikit aja nggapapa kali ya",
-                    "Desc2": "Kalo dibilang Fullstack sih gak Fullstack banget, Saya lebih fokus ke Backend tapi bisalah dikit-dikit Frontend, Mobile? nope.. Saya lepas tangan kalo disuruh ngerjain mobile dan kalo dapat project mobile langsung saya oper ke temen saya yang memang mobile developer, walaupun saya pernah ngerjain project IONIC angular.ts tapi saya pikir jalan ninja saya lebih mengarah ke Backend. Btw, Bagi yang asing dengan istilah-istilah tersebut pada dasarnya Frontend, Backend dan Mobile adalah sebuah satu kesatuan bagaimana terbentuknya aplikasi, singkatnya Frontend adalah halaman Web, Mobile adalah aplikasi yang berjalan di mobile dan Backend adalah sebuah aplikasi yang berjalan di belakang layar, biasanya Backend berjalan di sebuah server untuk menghandle logic, mengatur database dan mengatur bagaimana alur sebuah web/aplikasi mobile bekerja, kok jadi bahas ini ya? okeylah, intinya itu. <br><br>Saya tinggal di sebuah kota kecil di Jawa Timur yaitu Blitar dan saya lulusan D1 di Malang tahun 2021. Kemudian, untuk pengalaman kerja saya bekerja di sebuah Startup di Semarang, tugas saya yaitu membangun aplikasi Backend dan Frontend yang mana dalam Backendnya sendiri terintegrasi sebuah payment gateway, firebase untuk push notifikasi dan database. <br> Sebagai seorang programmer, tentunya saya sudah siap dengan segala konsekuensi yang ada seperti siap belajar terus menerus, meningkatkan skill, dan meningkatkan kecepatan dan ketepatan dalam menulis kode. Tentunya masih banyak yang perlu saya pelajari dalam dunia 'perkodean' ini. <br> Itulah sedikit informasi tentang saya mohon dimaklumi jika ada tutur kata saya yang kurang tepat."
+                    "Desc2": "Kalo dibilang Fullstack sih gak Fullstack banget, Saya lebih fokus ke Backend tapi bisalah dikit-dikit Frontend, Mobile? nope.. Saya lepas tangan kalo disuruh ngerjain mobile dan kalo dapat project mobile langsung saya oper ke temen saya yang memang mobile developer, walaupun saya pernah ngerjain project IONIC angular.ts tapi saya pikir jalan ninja saya lebih mengarah ke Backend. Btw, Bagi yang asing dengan istilah-istilah tersebut pada dasarnya Frontend, Backend dan Mobile adalah sebuah satu kesatuan bagaimana terbentuknya aplikasi, singkatnya Frontend adalah halaman Web, Mobile adalah aplikasi yang berjalan di mobile dan Backend adalah sebuah aplikasi yang berjalan di belakang layar, biasanya Backend berjalan di sebuah server untuk menghandle logic, mengatur database dan mengatur bagaimana alur sebuah web/aplikasi mobile bekerja, kok jadi bahas ini ya? okeylah, intinya itu.<br>Saya tinggal di sebuah kota kecil di Jawa Timur yaitu Blitar dan saya lulusan D1 di Malang tahun 2021. Sebagai seorang programmer, tentunya saya sudah siap dengan segala konsekuensi yang ada seperti siap belajar terus menerus, meningkatkan skill, dan meningkatkan kecepatan dan ketepatan dalam menulis kode. Tentunya masih banyak yang perlu saya pelajari dalam dunia 'perkodean' ini. <br> Itulah sedikit informasi tentang saya mohon dimaklumi jika ada tutur kata saya yang kurang tepat."
                },
                "resume": {
                     "header": "Lihat Resume Saya",
@@ -21,7 +21,7 @@
                     "experienceItem": [
                          {
                               "experienceTitle2": "Backend Developer",
-                              "experienceTime2": "Agustus 2022 – November 2022",
+                              "experienceTime2": "Agustus 2022 – Desember 2022",
                               "experiencePlace2": "Leafs.id, Semarang",
                               "experienceDesc2": "<li>Merancang dan membuat konsep perangkat lunak</li><li>Membuat aplikasi Backend (Json RestAPI) yang diintegrasikan dengan Mobile App dan Web App</li><li>Deploying</li><li>Testing menggunakan Postman</li>"
                          },
@@ -30,6 +30,12 @@
                               "experienceTime1": "Desember 2021 – Juli 2022",
                               "experiencePlace1": "PT Tera Fusion Tech, Semarang",
                               "experienceDesc1": "<li>Membuat aplikasi Backend (Json RestAPI) yang diintegrasikan dengan Mobile App dan Web App</li><li>Mengitegrasikan Payment Gateway dan Firebase</li><li>Testing dengan menggunakan Postman</li><li>Membuat web Company Profile</li>"
+                         },
+                         {
+                              "experienceTitle3": "Backend Developer",
+                              "experienceTime3": "Januari 2023 - Now",
+                              "experiencePlace3": "Havedev, Blitar",
+                              "experienceDesc3": "<li>Merancang dan membuat konsep perangkat lunak</li><li>Membuat aplikasi Backend (Json RestAPI) yang diintegrasikan dengan Client apps</li><li>Deploying</li><li>Testing</li>"
                          }
                     ],
                     "education": "Pendidikan",
@@ -88,9 +94,9 @@
                     "languages": "(EN)"
                },
                "about": {
-                    "header": "Who's Bunayya?",
+                    "header": "Who's Wahyu?",
                     "Desc1": "Knowing me is like learn to walk before you run. Here's attached a lil bit information about me.",
-                    "Desc2": "Well.. I cannot say that I'm a Fullstack developer, I focused more on Backend, but I could do Frontend too, just a lil bit. 'How about mobile?' they asked, nope hahaha I'll totally give up soon after I get the mobile work and pass it to my friend who used to work as a Mobile developer. Even though I had worked on project IONIC angular.ts, but I think the faith has already spoken to me for choosing Backend rather than Mobile. Anyways, for people who blind with how's application works, here's my simple explanation. Well, basically Frontend, Backend, and Mobile is one united of how the application works. In other words, Frontend is the web page,  Mobile is the application that works in 'mobile' and Backend is the application that works behind the screen. Backend used to work in some server to handling the logic, arranging the database, arranging the flow of how web or mobile application works. Enough with the heavy, lets move on to how's Bunayya living, shall we? <br> I live in a small town in East Java, called Blitar. I'm an associate degree majoring in Information and Technology in Malang (graduated 2021). For my work experiences, I have worked on Startup company in Semarang. My job was building Backend and Frontend which in Backend itself integrated with payment gateway, firebase (pushing the notification) and sql database. As a programmer, I have prepared myself and be ready with the consequences such as learning new things, upgrading my skills, and increasing speed and accuracy in writing code. Also, there will be so many things that I have to learn in the 'World of Codes'. <br> That's a lil bit information about me and what I'm capable of, hope you enjoy with my writing and see you around."
+                    "Desc2": "Well.. I cannot say that I'm a Fullstack developer, I focused more on Backend, but I could do Frontend too, just a lil bit. 'How about mobile?' they asked, nope hahaha I'll totally give up soon after I get the mobile work and pass it to my friend who used to work as a Mobile developer. Even though I had worked on project IONIC angular.ts, but I think the faith has already spoken to me for choosing Backend rather than Mobile. Anyways, for people who blind with how's application works, here's my simple explanation. Well, basically Frontend, Backend, and Mobile is one united of how the application works. In other words, Frontend is the web page,  Mobile is the application that works in 'mobile' and Backend is the application that works behind the screen. Backend used to work in some server to handling the logic, arranging the database, arranging the flow of how web or mobile application works. Enough with the heavy, lets move on to how's Wahyu living, shall we? <br> I live in a small town in East Java, called Blitar. I'm an associate degree majoring in Information and Technology in Malang (graduated 2021). As a programmer, I have prepared myself and be ready with the consequences such as learning new things, upgrading my skills, and increasing speed and accuracy in writing code. Also, there will be so many things that I have to learn in the 'World of Codes'. <br> That's a lil bit information about me and what I'm capable of, hope you enjoy with my writing and see you around."
                },
                "resume": {
                     "header": "My Resume",
@@ -98,7 +104,7 @@
                     "experienceItem": [
                          {
                               "experienceTitle2": "Backend Developer",
-                              "experienceTime2": "August 2022 – November 2022",
+                              "experienceTime2": "August 2022 – December 2022",
                               "experiencePlace2": "Leafs.id, Semarang",
                               "experienceDesc2": "<li>Design and create software concepts</li><li>Create Backend applications (Json Rest API) that are integrated with Mobile Apps and Web Apps</li><li>Deploying</li><li>Testing using Postman</li>"
                          },
@@ -107,6 +113,12 @@
                               "experienceTime1": "December 2021 – July 2022",
                               "experiencePlace1": "PT Tera Fusion Tech, Semarang",
                               "experienceDesc1": "<li>Create Backend applications (Json Rest API) that are integrated with Mobile Apps and Web Apps</li><li>Integrating Payment Gateway and Firebase</li><li>Testing using Postman</li><li>Create a web company profile</li>"
+                         },
+                         {
+                              "experienceTitle3": "Backend Developer",
+                              "experienceTime3": "January 2023 - Now",
+                              "experiencePlace3": "Havedev, Blitar",
+                              "experienceDesc3": "<li>Design and create software concepts</li><li>Create Backend applications (Json Rest API) that are integrated with Client apps</li><li>Deploying</li><li>Testing</li>"
                          }
                     ],
                     "education": "Education",

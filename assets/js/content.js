@@ -108,6 +108,11 @@ function setResumeValue(resume) {
      document.getElementById("resumeHeader").innerHTML = resume[0].header;
      // exp
      document.getElementById("resumeExperience").innerHTML = resume[0].experience;
+     document.getElementById("experienceTitle3").innerHTML = resume[0].experienceItem[2].experienceTitle3;
+     document.getElementById("experienceTime3").innerHTML = resume[0].experienceItem[2].experienceTime3;
+     document.getElementById("experiencePlace3").innerHTML = resume[0].experienceItem[2].experiencePlace3;
+     document.getElementById("experienceDesc3").innerHTML = resume[0].experienceItem[2].experienceDesc3;
+
      document.getElementById("experienceTitle2").innerHTML = resume[0].experienceItem[0].experienceTitle2;
      document.getElementById("experienceTime2").innerHTML = resume[0].experienceItem[0].experienceTime2;
      document.getElementById("experiencePlace2").innerHTML = resume[0].experienceItem[0].experiencePlace2;
